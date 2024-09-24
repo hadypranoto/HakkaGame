@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c05f63c77160eaa48aa790485ac3c547, type: 3}
+  m_Name: Girl
+  m_EditorClassIdentifier: 
+  sprite: {fileID: 2069899112, guid: 97130d73df31c8543ba2687ed131c105, type: 3}
+  jit: {fileID: 8300000, guid: b6f33fb615fe86143a6e784568ce5c5e, type: 3}
+  ngi: {fileID: 8300000, guid: a9e6a4efbfb8abf4d8fce0b80ee1d733, type: 3}
+  sam: {fileID: 8300000, guid: 2d12200368f87ee4db0e2628cb75037c, type: 3}
+  si: {fileID: 8300000, guid: 6f7ad95882c73db4aa9caaffbbcd5374, type: 3}
+  ng: {fileID: 8300000, guid: 207431e9d0c286b43ba5e5e852f50c0d, type: 3}
+  liuk: {fileID: 8300000, guid: f27a8c324c2266d4492eed3c9ed9b30b, type: 3}
+  chit: {fileID: 8300000, guid: 1480b3389c475974883b94417be6e9ca, type: 3}
+  pat: {fileID: 8300000, guid: 1f340b010cb2fde4a9d182ce370bc17b, type: 3}
+  kiu: {fileID: 8300000, guid: 879a372deaf88e54fa896bae96217867, type: 3}
+  ship: {fileID: 8300000, guid: aa09ec754eb170e43a6f21814c097d8c, type: 3}
+  sinmung: {fileID: 8300000, guid: 43702cb516c736b4692fc9b8a7049709, type: 3}
+  nyukCung: {fileID: 8300000, guid: 6ad80a674c36af249a114bad09247a07, type: 3}
+  thewFuSui: {fileID: 8300000, guid: 9f2991b876988dd4289e31974fdbbd0a, type: 3}
+  bongLiPiang: {fileID: 8300000, guid: 1e26e02e42884464192f1921afeb1df5, type: 3}
